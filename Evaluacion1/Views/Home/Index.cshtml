@@ -1,0 +1,88 @@
+﻿@model Evaluacion1.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h2 class="mb-0">@Model.NombreUniversidad</h2>
+            </div>
+            <div class="card-body">
+                <h4>Información Académica</h4>
+                <dl class="row">
+                    <dt class="col-sm-4">Carrera:</dt>
+                    <dd class="col-sm-8">@Model.NombreCarrera</dd>
+
+                    <dt class="col-sm-4">Curso:</dt>
+                    <dd class="col-sm-8">@Model.NombreCurso</dd>
+                </dl>
+
+                <hr />
+
+                <h4 class="mt-4">Información de los Estudiantes</h4>
+
+                <div class="row">
+                    <!-- Primer Estudiante -->
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header bg-info text-white">
+                                Estudiante 1
+                            </div>
+                            <div class="card-body">
+                                <dl>
+                                    <dt>Cédula:</dt>
+                                    <dd>@Model.CedulaEstudiante</dd>
+
+                                    <dt>Nombre:</dt>
+                                    <dd>@Model.NombreEstudiante</dd>
+
+                                    <dt>Apellidos:</dt>
+                                    <dd>@Model.ApellidosEstudiante</dd>
+
+                                    <dt>Edad:</dt>
+                                    <dd>@Model.EdadEstudiante años</dd>
+
+                                    <dt>Dirección:</dt>
+                                    <dd>@Model.DireccionEstudiante</dd>
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Segundo Estudiante -->
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header bg-success text-white">
+                                Estudiante 2
+                            </div>
+                            <div class="card-body">
+                                <dl>
+                                    <dt>Cédula:</dt>
+                                    <dd>@Model.CedulaEstudiante2</dd>
+
+                                    <dt>Nombre:</dt>
+                                    <dd>@Model.NombreEstudiante2</dd>
+
+                                    <dt>Apellidos:</dt>
+                                    <dd>@Model.ApellidosEstudiante2</dd>
+
+                                    <dt>Edad:</dt>
+                                    <dd>@Model.EdadEstudiante2 años</dd>
+
+                                    <dt>Dirección:</dt>
+                                    <dd>@Model.DireccionEstudiante2</dd>
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="Estudiantes" asp-action="Index" class="btn btn-primary mx-2">Gestionar Estudiantes</a>
+                <a asp-controller="Matriculas" asp-action="Index" class="btn btn-success mx-2">Gestionar Matrículas</a>
+            </div>
+        </div>
+    </div>
+</div>
