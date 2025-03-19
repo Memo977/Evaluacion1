@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\logs\\events_20250319.log||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:logs\\events_20250319.log||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -83,24 +95,12 @@
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,33 +218,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "events_20250319.log",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250319.log",
               "RelativeDocumentMoniker": "logs\\events_20250319.log",
               "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250319.log",
               "RelativeToolTip": "logs\\events_20250319.log",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-19T16:03:59.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\EventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\EventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\EventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\EventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "FileEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\FileEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\FileEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:50:24.776Z",
+              "WhenOpened": "2025-03-16T00:56:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventLog.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
+              "RelativeDocumentMoniker": "Models\\EventLog.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
+              "RelativeToolTip": "Models\\EventLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:46.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\ConsoleEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\ConsoleEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:55:08.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\DbEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\DbEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:57:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:53:45.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompositeEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\CompositeEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\CompositeEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:58:17.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:31:49.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:31:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:27:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "events_20250315.log",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
+              "RelativeDocumentMoniker": "logs\\events_20250315.log",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
+              "RelativeToolTip": "logs\\events_20250315.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-16T05:37:08.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Details.cshtml",
@@ -257,97 +367,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "events_20250315.log",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
-              "RelativeDocumentMoniker": "logs\\events_20250315.log",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
-              "RelativeToolTip": "logs\\events_20250315.log",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-16T05:37:08.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileEventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\FileEventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\FileEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "EventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\EventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\EventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\EventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\EventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:56:00.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:50:24.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventLog.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
-              "RelativeDocumentMoniker": "Models\\EventLog.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
-              "RelativeToolTip": "Models\\EventLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:42:46.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsoleEventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\ConsoleEventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\ConsoleEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:55:08.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbEventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\DbEventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\DbEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:57:18.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IEventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:53:45.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CompositeEventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\CompositeEventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\CompositeEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:58:17.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Create.cshtml",
@@ -359,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -371,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
@@ -383,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -395,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -407,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\custom.css",
@@ -419,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -431,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "events_20250318.log",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250318.log",
               "RelativeDocumentMoniker": "logs\\events_20250318.log",
@@ -443,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Sexo.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\Sexo.cs",
               "RelativeDocumentMoniker": "Models\\Enum\\Sexo.cs",
@@ -455,19 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Delete.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAmwJkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:31:49.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Delete.cshtml",
@@ -479,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Index.cshtml",
@@ -491,19 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Details.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAmwHsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:31:05.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Create.cshtml",
@@ -512,18 +519,6 @@
               "ViewState": "AgIAAEEAAAAAAAAAAAAmwGsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-16T01:29:24.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Index.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:27:36.309Z"
             },
             {
               "$type": "Document",

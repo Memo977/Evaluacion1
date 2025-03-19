@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Evaluacion1",
-    "\\Evaluacion1\\Data",
+    "\\Evaluacion1\\Models",
+    "\\Evaluacion1\\Models\\Enum",
     "\\Evaluacion1\\Views",
     "\\Evaluacion1\\Views\\Estudiantes"
   ],
-  "SelectedNode": "\\Evaluacion1\\Data\\ApplicationDbContext.cs",
+  "SelectedNode": "\\Evaluacion1\\Evaluacion1.sln",
   "PreviewInSolutionExplorer": false
 }
