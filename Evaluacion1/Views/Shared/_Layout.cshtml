@@ -91,6 +91,24 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        $(document).ready(function() {
+            // Agregar manejador de eventos para el botón de cierre
+            $('.alert .close').on('click', function() {
+                $(this).closest('.alert').fadeOut('fast', function() {
+                    $(this).remove(); // Eliminar completamente la alerta del DOM
+                });
+                return false; // Prevenir el comportamiento default
+            });
+
+            // Auto-cerrado después de 5 segundos
+            setTimeout(function() {
+                $('.alert-success').fadeOut('slow', function() {
+                    $(this).remove();
+                });
+            }, 5000);
+        });
+    </script>
 
     <!-- Add SweetAlert2 for better alerts and confirmations -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

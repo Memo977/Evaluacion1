@@ -3,39 +3,115 @@
     ViewData["Title"] = "Eliminar Matrícula";
 }
 
-<h1>Eliminar Matrícula</h1>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>Eliminar Matrícula</h1>
+    <div>
+        <a asp-action="Index" class="btn btn-outline-secondary">
+            <i class="fas fa-arrow-left mr-2"></i>Volver al Listado
+        </a>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-md-8 offset-md-2">
-        <div class="card">
-            <div class="card-header bg-danger text-white">
+        <div class="card border-danger">
+            <div class="card-header bg-danger text-white d-flex align-items-center">
+                <i class="fas fa-exclamation-triangle mr-2 fa-lg"></i>
                 <h5 class="mb-0">¿Está seguro que desea eliminar esta matrícula?</h5>
             </div>
             <div class="card-body">
-                <div class="alert alert-warning">
-                    <strong>Nota:</strong> Al eliminar la matrícula, el estado del estudiante cambiará a "No Matriculado".
+                <div class="alert alert-warning d-flex align-items-center" role="alert">
+                    <i class="fas fa-exclamation-circle mr-2 fa-lg"></i>
+                    <div>
+                        <strong>Advertencia:</strong> Al eliminar la matrícula, el estado del estudiante cambiará a "No Matriculado".
+                    </div>
                 </div>
-                <dl>
-                    <dt>@Html.DisplayNameFor(model => model.Id)</dt>
-                    <dd>@Html.DisplayFor(model => model.Id)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Fecha)</dt>
-                    <dd>@Model.Fecha.ToString("dd/MM/yyyy")</dd>
-
-                    <dt>Estudiante</dt>
-                    <dd>@Model.Estudiante.NombreCompleto</dd>
-
-                    <dt>Cédula del Estudiante</dt>
-                    <dd>@Model.Estudiante.Cedula</dd>
-                </dl>
+                
+                <div class="row mt-3">
+                    <div class="col-md-4 text-center mb-4">
+                        <!-- Matrícula placeholder image -->
+                        <i class="fas fa-clipboard-check text-secondary fa-5x mb-3"></i>
+                        <h4>Matrícula #@Model.Id</h4>
+                        <div class="mt-2">
+                            <span class="badge badge-success px-3 py-2">
+                                <i class="fas fa-calendar-check mr-1"></i> Activa
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 35%">
+                                            <i class="fas fa-hashtag mr-1"></i> @Html.DisplayNameFor(model => model.Id)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Id)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-calendar-alt mr-1"></i> @Html.DisplayNameFor(model => model.Fecha)
+                                        </th>
+                                        <td>@Model.Fecha.ToString("dd/MM/yyyy")</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user-graduate mr-1"></i> Estudiante
+                                        </th>
+                                        <td>@Model.Estudiante.NombreCompleto</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-id-card mr-1"></i> Cédula
+                                        </th>
+                                        <td>@Model.Estudiante.Cedula</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="card-footer text-center">
-                <form asp-action="Delete">
+                <form asp-action="Delete" id="deleteForm">
                     <input type="hidden" asp-for="Id" />
-                    <input type="submit" value="Eliminar" class="btn btn-danger" />
-                    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                    <button type="submit" class="btn btn-danger btn-lg px-5">
+                        <i class="fas fa-trash-alt mr-2"></i>Eliminar
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary btn-lg px-5">
+                        <i class="fas fa-times mr-2"></i>Cancelar
+                    </a>
                 </form>
             </div>
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        // Confirm deletion with SweetAlert2
+        $(document).ready(function() {
+            $('#deleteForm').on('submit', function(e) {
+                e.preventDefault();
+                
+                Swal.fire({
+                    title: '¿Está seguro?',
+                    text: "Esta acción no se puede revertir y el estudiante quedará en estado 'No Matriculado'",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#dc3545',
+                    cancelButtonColor: '#6c757d',
+                    confirmButtonText: 'Sí, eliminar',
+                    cancelButtonText: 'Cancelar'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        this.submit();
+                    }
+                });
+            });
+            
+            // Highlight active navigation
+            $('.nav-item a[href$="Matriculas"]').addClass('active');
+        });
+    </script>
+}

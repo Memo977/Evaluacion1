@@ -99,6 +99,47 @@ body {
     margin-right: 5px;
 }
 
+/* Icon Styles */
+i.fas, i.far, i.fab {
+    margin-right: 8px;
+}
+
+/* Precise alignment for icons in tables */
+.table th {
+    vertical-align: middle !important;
+    display: table-cell;
+}
+
+    .table th i.fas, .table th i.far, .table th i.fab {
+        display: inline-flex;
+        align-items: center;
+        vertical-align: middle;
+        margin-right: 8px;
+        line-height: 1;
+        position: relative;
+        top: -1px; /* Fine adjustment */
+    }
+
+    /* Ensure icons and text are perfectly aligned */
+    .table th > * {
+        vertical-align: middle;
+        display: inline-flex;
+        align-items: center;
+    }
+
+.table td.text-center .btn-group {
+    justify-content: center;
+}
+
+.btn i.fas, .btn i.far, .btn i.fab {
+    margin-right: 6px;
+}
+
+h1 i.fas, h2 i.fas, h3 i.fas, h4 i.fas, h5 i.fas,
+.card-header i.fas {
+    margin-right: 10px;
+}
+
 /* Form Control Styles */
 .form-control {
     border-radius: 5px;
@@ -282,6 +323,21 @@ h1 {
 
 .text-secondary {
     color: var(--secondary-color) !important;
+}
+
+/* New utility classes for student tables */
+.w-40 {
+    width: 40%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.table-estudiantes th,
+.table-estudiantes td {
+    padding: 0.5rem;
+    vertical-align: middle;
 }
 
 /* Responsive adjustments */

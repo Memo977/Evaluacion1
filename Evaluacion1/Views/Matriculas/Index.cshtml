@@ -3,40 +3,68 @@
     ViewData["Title"] = "Matrículas";
 }
 
-<h1>Listado de Matrículas</h1>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>Listado de Matrículas</h1>
+    <div>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus-circle mr-2"></i>Registrar Nueva Matrícula
+        </a>
+    </div>
+</div>
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">Registrar Nueva Matrícula</a>
-</p>
-<table class="table table-striped table-bordered">
-    <thead class="thead-dark">
-        <tr>
-            <th>@Html.DisplayNameFor(model => model.Id)</th>
-            <th>@Html.DisplayNameFor(model => model.Fecha)</th>
-            <th>Estudiante</th>
-            <th>Cédula</th>
-            <th>Acciones</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@Html.DisplayFor(modelItem => item.Id)</td>
-                <td>@item.Fecha.ToString("dd/MM/yyyy")</td>
-                <td>@item.Estudiante.NombreCompleto</td>
-                <td>@item.Estudiante.Cedula</td>
-                <td>
-                    <div class="btn-group" role="group">
-                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info" title="Detalles">
-                            <i class="fas fa-info-circle"></i> Detalles
-                        </a>
-                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" title="Eliminar">
-                            <i class="fas fa-trash-alt"></i> Eliminar
-                        </a>
-                    </div>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+<div class="card">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-striped table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Id)</th>
+                        <th>@Html.DisplayNameFor(model => model.Fecha)</th>
+                        <th>Estudiante</th>
+                        <th>Cédula</th>
+                        <th class="text-center">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                            <td>
+                                <i class="fas fa-calendar-alt text-muted mr-1"></i>
+                                @item.Fecha.ToString("dd/MM/yyyy")
+                            </td>
+                            <td>
+                                <i class="fas fa-user-graduate text-primary mr-1"></i>
+                                @item.Estudiante.NombreCompleto
+                            </td>
+                            <td>
+                                <i class="fas fa-id-card text-muted mr-1"></i>
+                                @item.Estudiante.Cedula
+                            </td>
+                            <td class="text-center">
+                                <div class="btn-group" role="group">
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info" title="Detalles">
+                                        <i class="fas fa-info-circle"></i>
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" title="Eliminar">
+                                        <i class="fas fa-trash-alt"></i>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Highlight active navigation item
+        $(document).ready(function() {
+            $('.nav-item a[href$="Matriculas"]').addClass('active');
+        });
+    </script>
+}
