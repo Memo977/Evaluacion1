@@ -5,7 +5,7 @@ using System;
 
 namespace Evaluacion1.Services.EventLoggers
 {
-    public class DbEventLogger : IEventLogger
+    public class DbEventLogger : EventLogger
     {
         private readonly IApplicationDbContext _context;
 
@@ -14,34 +14,14 @@ namespace Evaluacion1.Services.EventLoggers
             _context = context ?? throw new ArgumentNullException(nameof(context));
         }
 
-        public void LogConsulta(string entidad)
-        {
-            LogToDatabase($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Consulta - {entidad}.");
-        }
-
-        public void LogAgregar(string entidad, int id)
-        {
-            LogToDatabase($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Agregar - {entidad}: {id}.");
-        }
-
-        public void LogActualizar(string entidad, int id)
-        {
-            LogToDatabase($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Actualizar - {entidad}: {id}.");
-        }
-
-        public void LogEliminar(string entidad, int id)
-        {
-            LogToDatabase($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Eliminar - {entidad}: {id}.");
-        }
-
-        private void LogToDatabase(string message)
+        protected override void WriteLog(string mensaje)
         {
             try
             {
                 _context.EventLogs.Add(new EventLog
                 {
                     Timestamp = DateTime.Now,
-                    Message = message
+                    Message = mensaje
                 });
                 _context.SaveChangesAsync().GetAwaiter().GetResult(); // Usa el método async de forma síncrona
             }

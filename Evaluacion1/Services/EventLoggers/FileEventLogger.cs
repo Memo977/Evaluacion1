@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace Evaluacion1.Services.EventLoggers
 {
-    public class FileEventLogger : IEventLogger
+    public class FileEventLogger : EventLogger
     {
         private readonly string _logFilePath;
 
@@ -36,40 +36,19 @@ namespace Evaluacion1.Services.EventLoggers
             Console.WriteLine("Archivo creado exitosamente");
         }
 
-        // Resto del código permanece igual
-        private void WriteToFile(string message)
+        protected override void WriteLog(string mensaje)
         {
             try
             {
                 using (StreamWriter writer = new StreamWriter(_logFilePath, true))
                 {
-                    writer.WriteLine(message);
+                    writer.WriteLine(mensaje);
                 }
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Error al escribir en el archivo de log: {ex.Message}");
             }
-        }
-
-        public void LogConsulta(string entidad)
-        {
-            WriteToFile($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Consulta - {entidad}.");
-        }
-
-        public void LogAgregar(string entidad, int id)
-        {
-            WriteToFile($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Agregar - {entidad}: {id}.");
-        }
-
-        public void LogActualizar(string entidad, int id)
-        {
-            WriteToFile($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Actualizar - {entidad}: {id}.");
-        }
-
-        public void LogEliminar(string entidad, int id)
-        {
-            WriteToFile($"[{DateTime.Now:yyyy-MM-dd HH:mm}] Eliminar - {entidad}: {id}.");
         }
     }
 }
