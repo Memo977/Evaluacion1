@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\migrations\\20250319193810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:migrations\\20250319193810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -143,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -186,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,32 +230,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "events_20250319.log",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250319.log",
-              "RelativeDocumentMoniker": "logs\\events_20250319.log",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250319.log",
-              "RelativeToolTip": "logs\\events_20250319.log",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-19T16:03:59.099Z",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:21:14.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileEventLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\FileEventLogger.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\FileEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "20250319193810_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Migrations\\20250319193810_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250319193810_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Migrations\\20250319193810_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250319193810_InitialCreate.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:56:00.815Z"
+              "WhenOpened": "2025-03-19T20:21:04.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:17:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "EventLog.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
               "RelativeDocumentMoniker": "Models\\EventLog.cs",
@@ -255,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ConsoleEventLogger.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\EventLoggers\\ConsoleEventLogger.cs",
@@ -267,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DbEventLogger.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\EventLoggers\\DbEventLogger.cs",
@@ -279,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IEventLogger.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEventLogger.cs",
@@ -291,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CompositeEventLogger.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\EventLoggers\\CompositeEventLogger.cs",
@@ -303,7 +329,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
+              "RelativeToolTip": "Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:26:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\FileEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\FileEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:56:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Delete.cshtml",
@@ -311,12 +362,11 @@
               "RelativeToolTip": "Views\\Estudiantes\\Delete.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAIwCUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:31:49.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T01:31:49.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Details.cshtml",
@@ -324,12 +374,11 @@
               "RelativeToolTip": "Views\\Estudiantes\\Details.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswBkAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:31:05.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T01:31:05.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
@@ -342,7 +391,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
+              "Title": "events_20250319.log",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250319.log",
+              "RelativeDocumentMoniker": "logs\\events_20250319.log",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250319.log",
+              "RelativeToolTip": "logs\\events_20250319.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T16:03:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "events_20250315.log",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
               "RelativeDocumentMoniker": "logs\\events_20250315.log",
@@ -354,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Details.cshtml",
@@ -366,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "EventLogger.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\EventLogger.cs",
               "RelativeDocumentMoniker": "Services\\EventLoggers\\EventLogger.cs",
@@ -378,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Create.cshtml",
@@ -390,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -402,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
@@ -414,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -426,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -438,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\custom.css",
@@ -450,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -462,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "events_20250318.log",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250318.log",
               "RelativeDocumentMoniker": "logs\\events_20250318.log",
@@ -474,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Sexo.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\Sexo.cs",
               "RelativeDocumentMoniker": "Models\\Enum\\Sexo.cs",
@@ -486,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Delete.cshtml",
@@ -498,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Index.cshtml",
@@ -510,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Create.cshtml",
@@ -522,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -534,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "MatriculasController.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\MatriculasController.cs",
               "RelativeDocumentMoniker": "Controllers\\MatriculasController.cs",
@@ -546,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "MatriculaService.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\MatriculaService.cs",
               "RelativeDocumentMoniker": "Services\\MatriculaService.cs",
@@ -558,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "ValidationService.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\ValidationService.cs",
               "RelativeDocumentMoniker": "Services\\ValidationService.cs",
@@ -570,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -582,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "EstudianteService.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EstudianteService.cs",
               "RelativeDocumentMoniker": "Services\\EstudianteService.cs",
@@ -594,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "IValidationService.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IValidationService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IValidationService.cs",
@@ -606,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "IApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Data\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\IApplicationDbContext.cs",
@@ -618,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "EstudiantesController.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\EstudiantesController.cs",
               "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
@@ -630,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "MessageHelper.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Helpers\\MessageHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\MessageHelper.cs",
@@ -642,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Matricula.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Matricula.cs",
               "RelativeDocumentMoniker": "Models\\Matricula.cs",
@@ -654,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -666,19 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
-              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
-              "RelativeToolTip": "Models\\Estudiante.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwCYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:26:38.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Evaluacion1.csproj",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
               "RelativeDocumentMoniker": "Evaluacion1.csproj",
@@ -690,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "EstadoEstudiante.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\EstadoEstudiante.cs",
               "RelativeDocumentMoniker": "Models\\Enum\\EstadoEstudiante.cs",
@@ -702,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -714,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Edit.cshtml",
@@ -726,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "IMatriculaService.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IMatriculaService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IMatriculaService.cs",
@@ -738,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "IEstudianteService.cs",
               "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEstudianteService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEstudianteService.cs",

@@ -22,26 +22,6 @@ namespace Evaluacion1.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("Evaluacion1.Data.EventLog", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Message")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<DateTime>("Timestamp")
-                        .HasColumnType("timestamp without time zone");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("EventLogs", (string)null);
-                });
-
             modelBuilder.Entity("Evaluacion1.Models.Estudiante", b =>
                 {
                     b.Property<int>("Id")
@@ -75,6 +55,26 @@ namespace Evaluacion1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Estudiantes");
+                });
+
+            modelBuilder.Entity("Evaluacion1.Models.EventLog", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Message")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("Timestamp")
+                        .HasColumnType("timestamp without time zone");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("EventLogs", (string)null);
                 });
 
             modelBuilder.Entity("Evaluacion1.Models.Matricula", b =>

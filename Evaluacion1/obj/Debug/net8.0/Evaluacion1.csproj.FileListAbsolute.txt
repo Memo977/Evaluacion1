@@ -406,10 +406,10 @@ C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\staticwebassets\
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Evaluacion1.props
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Evaluacion1.props
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\Evaluaci.A95EB09B.Up2Date
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\Evaluacion1.dll
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\refint\Evaluacion1.dll
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\Evaluacion1.pdb
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\Evaluacion1.genruntimeconfig.cache
 C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\ref\Evaluacion1.dll
+C:\Users\Memo\Pictures\Evaluacion1\Evaluacion1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
