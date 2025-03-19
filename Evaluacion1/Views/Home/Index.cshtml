@@ -3,86 +3,142 @@
     ViewData["Title"] = "Inicio";
 }
 
+<div class="jumbotron bg-light mb-4">
+    <div class="container">
+        <h1 class="display-4">@Model.NombreUniversidad</h1>
+        <p class="lead">Sistema de gestión de estudiantes y matrículas</p>
+        <hr class="my-4">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card border-primary mb-3">
+                    <div class="card-body text-primary">
+                        <h5 class="card-title"><i class="fas fa-book mr-2"></i>Carrera</h5>
+                        <p class="card-text h4">@Model.NombreCarrera</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card border-success mb-3">
+                    <div class="card-body text-success">
+                        <h5 class="card-title"><i class="fas fa-chalkboard mr-2"></i>Curso</h5>
+                        <p class="card-text h4">@Model.NombreCurso</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="row">
     <div class="col-md-8 offset-md-2">
-        <div class="card">
+        <div class="card mb-4">
             <div class="card-header bg-primary text-white">
-                <h2 class="mb-0">@Model.NombreUniversidad</h2>
+                <h4 class="mb-0"><i class="fas fa-users mr-2"></i>Información de los Estudiantes</h4>
             </div>
             <div class="card-body">
-                <h4>Información Académica</h4>
-                <dl class="row">
-                    <dt class="col-sm-4">Carrera:</dt>
-                    <dd class="col-sm-8">@Model.NombreCarrera</dd>
-
-                    <dt class="col-sm-4">Curso:</dt>
-                    <dd class="col-sm-8">@Model.NombreCurso</dd>
-                </dl>
-
-                <hr />
-
-                <h4 class="mt-4">Información de los Estudiantes</h4>
-
                 <div class="row">
                     <!-- Primer Estudiante -->
                     <div class="col-md-6">
-                        <div class="card">
-                            <div class="card-header bg-info text-white">
-                                Estudiante 1
+                        <div class="card shadow-sm h-100">
+                            <div class="card-header bg-info text-white d-flex align-items-center">
+                                <i class="fas fa-user-graduate mr-2"></i>
+                                <h5 class="mb-0">Estudiante 1</h5>
                             </div>
                             <div class="card-body">
-                                <dl>
-                                    <dt>Cédula:</dt>
-                                    <dd>@Model.CedulaEstudiante</dd>
-
-                                    <dt>Nombre:</dt>
-                                    <dd>@Model.NombreEstudiante</dd>
-
-                                    <dt>Apellidos:</dt>
-                                    <dd>@Model.ApellidosEstudiante</dd>
-
-                                    <dt>Edad:</dt>
-                                    <dd>@Model.EdadEstudiante años</dd>
-
-                                    <dt>Dirección:</dt>
-                                    <dd>@Model.DireccionEstudiante</dd>
-                                </dl>
+                                <div class="text-center mb-3">
+                                    <i class="fas fa-user-circle fa-5x text-info"></i>
+                                </div>
+                                <table class="table table-sm">
+                                    <tbody>
+                                        <tr>
+                                            <th><i class="fas fa-id-card mr-1"></i> Cédula:</th>
+                                            <td>@Model.CedulaEstudiante</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-user mr-1"></i> Nombre:</th>
+                                            <td>@Model.NombreEstudiante</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-user-tag mr-1"></i> Apellidos:</th>
+                                            <td>@Model.ApellidosEstudiante</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-birthday-cake mr-1"></i> Edad:</th>
+                                            <td>@Model.EdadEstudiante años</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-map-marker-alt mr-1"></i> Dirección:</th>
+                                            <td>@Model.DireccionEstudiante</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
 
                     <!-- Segundo Estudiante -->
                     <div class="col-md-6">
-                        <div class="card">
-                            <div class="card-header bg-success text-white">
-                                Estudiante 2
+                        <div class="card shadow-sm h-100">
+                            <div class="card-header bg-success text-white d-flex align-items-center">
+                                <i class="fas fa-user-graduate mr-2"></i>
+                                <h5 class="mb-0">Estudiante 2</h5>
                             </div>
                             <div class="card-body">
-                                <dl>
-                                    <dt>Cédula:</dt>
-                                    <dd>@Model.CedulaEstudiante2</dd>
-
-                                    <dt>Nombre:</dt>
-                                    <dd>@Model.NombreEstudiante2</dd>
-
-                                    <dt>Apellidos:</dt>
-                                    <dd>@Model.ApellidosEstudiante2</dd>
-
-                                    <dt>Edad:</dt>
-                                    <dd>@Model.EdadEstudiante2 años</dd>
-
-                                    <dt>Dirección:</dt>
-                                    <dd>@Model.DireccionEstudiante2</dd>
-                                </dl>
+                                <div class="text-center mb-3">
+                                    <i class="fas fa-user-circle fa-5x text-success"></i>
+                                </div>
+                                <table class="table table-sm">
+                                    <tbody>
+                                        <tr>
+                                            <th><i class="fas fa-id-card mr-1"></i> Cédula:</th>
+                                            <td>@Model.CedulaEstudiante2</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-user mr-1"></i> Nombre:</th>
+                                            <td>@Model.NombreEstudiante2</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-user-tag mr-1"></i> Apellidos:</th>
+                                            <td>@Model.ApellidosEstudiante2</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-birthday-cake mr-1"></i> Edad:</th>
+                                            <td>@Model.EdadEstudiante2 años</td>
+                                        </tr>
+                                        <tr>
+                                            <th><i class="fas fa-map-marker-alt mr-1"></i> Dirección:</th>
+                                            <td>@Model.DireccionEstudiante2</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="card-footer text-center">
-                <a asp-controller="Estudiantes" asp-action="Index" class="btn btn-primary mx-2">Gestionar Estudiantes</a>
-                <a asp-controller="Matriculas" asp-action="Index" class="btn btn-success mx-2">Gestionar Matrículas</a>
+                <div class="row">
+                    <div class="col-md-6">
+                        <a asp-controller="Estudiantes" asp-action="Index" class="btn btn-primary btn-lg btn-block mb-2">
+                            <i class="fas fa-user-graduate mr-2"></i>Gestionar Estudiantes
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <a asp-controller="Matriculas" asp-action="Index" class="btn btn-success btn-lg btn-block mb-2">
+                            <i class="fas fa-clipboard-list mr-2"></i>Gestionar Matrículas
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        // Highlight active navigation
+        $(document).ready(function() {
+            $('.nav-item a[href$="Home"]').addClass('active');
+        });
+    </script>
+}

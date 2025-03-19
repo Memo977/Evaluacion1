@@ -1,174 +1,166 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\",
+  "WorkspaceRootPath": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\eventloggers\\dbeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\dbeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\eventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\eventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\helpers\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:helpers\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\matriculas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\logs\\events_20250315.log||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:logs\\events_20250315.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\eventloggers\\compositeeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\compositeeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\eventloggers\\fileeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\fileeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\evaluacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:evaluacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\interfaces\\ieventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\interfaces\\ieventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\enum\\estadoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\enum\\estadoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\matriculas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\eventloggers\\consoleeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\eventloggers\\compositeeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\compositeeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\eventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\eventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\interfaces\\ivalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\eventloggers\\dbeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\dbeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\matriculas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\logs\\events_20250315.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:logs\\events_20250315.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\eventloggers\\fileeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\fileeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\evaluacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:evaluacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\interfaces\\ieventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\interfaces\\ieventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\models\\enum\\estadoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\enum\\estadoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\matriculas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\eventloggers\\consoleeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\eventloggers\\consoleeventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\interfaces\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\interfaces\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\interfaces\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\services\\interfaces\\iestudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|c:\\users\\memo\\pictures\\evaluacion1\\evaluacion1\\services\\interfaces\\iestudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:services\\interfaces\\iestudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|e:\\nueva carpeta (4)\\evaluacion1\\evaluacion1\\models\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E11414A-6F1F-47C4-A3EF-29F0E9FE5923}|Evaluacion1.csproj|solutionrelative:models\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,102 +202,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValidationService.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\ValidationService.cs",
-              "RelativeDocumentMoniker": "Services\\ValidationService.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\ValidationService.cs",
-              "RelativeToolTip": "Services\\ValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:59:34.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IValidationService.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IValidationService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IValidationService.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IValidationService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:58:48.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "EventLog.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
-              "RelativeDocumentMoniker": "Models\\EventLog.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
-              "RelativeToolTip": "Models\\EventLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:42:46.199Z",
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "wwwroot\\css\\custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T08:56:08.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Data\\IApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\IApplicationDbContext.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Data\\IApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\IApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:33:44.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MessageHelper.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\MessageHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\MessageHelper.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\MessageHelper.cs",
-              "RelativeToolTip": "Helpers\\MessageHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:26:31.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StringHelper.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\StringHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\StringHelper.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\StringHelper.cs",
-              "RelativeToolTip": "Helpers\\StringHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:26:18.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstudiantesController.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Controllers\\EstudiantesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Controllers\\EstudiantesController.cs",
-              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T01:14:37.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -314,126 +228,284 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EstudianteService.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EstudianteService.cs",
-              "RelativeDocumentMoniker": "Services\\EstudianteService.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EstudianteService.cs",
-              "RelativeToolTip": "Services\\EstudianteService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T01:20:03.319Z",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:24:30.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:36:45.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DateHelper.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\DateHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\DateHelper.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\DateHelper.cs",
-              "RelativeToolTip": "Helpers\\DateHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:25:48.816Z",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:27:36.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MatriculaService.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\MatriculaService.cs",
-              "RelativeDocumentMoniker": "Services\\MatriculaService.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\MatriculaService.cs",
-              "RelativeToolTip": "Services\\MatriculaService.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAmwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T01:22:51.35Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Create.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:29:24.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DbEventLogger.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\DbEventLogger.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\DbEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:57:18.401Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Details.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:31:05.49Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Delete.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:31:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:25:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sexo.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\Sexo.cs",
+              "RelativeDocumentMoniker": "Models\\Enum\\Sexo.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\Sexo.cs",
+              "RelativeToolTip": "Models\\Enum\\Sexo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:21:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:30:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:00:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompositeEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\CompositeEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\CompositeEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:58:17.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventLog.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
+              "RelativeDocumentMoniker": "Models\\EventLog.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\EventLog.cs",
+              "RelativeToolTip": "Models\\EventLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:46.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ValidationHelper.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\ValidationHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\ValidationHelper.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Helpers\\ValidationHelper.cs",
-              "RelativeToolTip": "Helpers\\ValidationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "MatriculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\MatriculasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatriculasController.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\MatriculasController.cs",
+              "RelativeToolTip": "Controllers\\MatriculasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T23:25:32.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T01:16:22.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Matriculas\\Delete.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Matriculas\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:34:38.226Z",
-              "EditorCaption": ""
+              "DocumentIndex": 21,
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "Services\\MatriculaService.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\MatriculaService.cs",
+              "RelativeToolTip": "Services\\MatriculaService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:22:51.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\HomeViewModel.cs",
-              "RelativeToolTip": "Models\\HomeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\ValidationService.cs",
+              "RelativeToolTip": "Services\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:30:56.704Z"
+              "WhenOpened": "2025-03-18T23:59:34.105Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAvAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T01:00:24.51Z"
+              "WhenOpened": "2025-03-16T00:36:45.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 16,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "Services\\EstudianteService.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EstudianteService.cs",
+              "RelativeToolTip": "Services\\EstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:20:03.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IValidationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IValidationService.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IValidationService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:58:48.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Data\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Data\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:33:44.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:14:37.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MessageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Helpers\\MessageHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\MessageHelper.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Helpers\\MessageHelper.cs",
+              "RelativeToolTip": "Helpers\\MessageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:26:31.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
+              "RelativeDocumentMoniker": "Services\\EventLoggers\\DbEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\DbEventLogger.cs",
+              "RelativeToolTip": "Services\\EventLoggers\\DbEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:57:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Matriculas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Matriculas\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T01:34:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Matricula.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Matricula.cs",
               "RelativeDocumentMoniker": "Models\\Matricula.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Matricula.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Matricula.cs",
               "RelativeToolTip": "Models\\Matricula.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAowBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,24 +513,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MatriculasController.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Controllers\\MatriculasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MatriculasController.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Controllers\\MatriculasController.cs",
-              "RelativeToolTip": "Controllers\\MatriculasController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T01:16:22.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,11 +525,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Estudiante.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "Models\\Estudiante.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Estudiante.cs",
               "RelativeToolTip": "Models\\Estudiante.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAgwCYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -478,11 +537,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Details.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Details.cshtml",
               "RelativeToolTip": "Views\\Matriculas\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -490,47 +549,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAkwFcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:25:57.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Details.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Details.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:31:05.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:27:36.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Evaluacion1.csproj",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
               "RelativeDocumentMoniker": "Evaluacion1.csproj",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
               "RelativeToolTip": "Evaluacion1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -538,11 +561,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IEventLogger.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEventLogger.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEventLogger.cs",
               "RelativeToolTip": "Services\\Interfaces\\IEventLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -550,23 +573,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CompositeEventLogger.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
-              "RelativeDocumentMoniker": "Services\\EventLoggers\\CompositeEventLogger.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\CompositeEventLogger.cs",
-              "RelativeToolTip": "Services\\EventLoggers\\CompositeEventLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:58:17.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "events_20250315.log",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
               "RelativeDocumentMoniker": "logs\\events_20250315.log",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\logs\\events_20250315.log",
               "RelativeToolTip": "logs\\events_20250315.log",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -574,11 +585,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "FileEventLogger.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\EventLoggers\\FileEventLogger.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\FileEventLogger.cs",
               "RelativeToolTip": "Services\\EventLoggers\\FileEventLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,11 +597,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "EstadoEstudiante.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Enum\\EstadoEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\EstadoEstudiante.cs",
               "RelativeDocumentMoniker": "Models\\Enum\\EstadoEstudiante.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Enum\\EstadoEstudiante.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Models\\Enum\\EstadoEstudiante.cs",
               "RelativeToolTip": "Models\\Enum\\EstadoEstudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -598,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -610,11 +621,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Create.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Create.cshtml",
               "RelativeToolTip": "Views\\Matriculas\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -622,11 +633,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Matriculas\\Index.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Matriculas\\Index.cshtml",
               "RelativeToolTip": "Views\\Matriculas\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -634,23 +645,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Delete.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Delete.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:31:49.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Estudiantes\\Edit.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Edit.cshtml",
               "RelativeToolTip": "Views\\Estudiantes\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -658,35 +657,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estudiantes\\Create.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Estudiantes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Estudiantes\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:29:24.786Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T01:24:30.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
               "Title": "ConsoleEventLogger.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
               "RelativeDocumentMoniker": "Services\\EventLoggers\\ConsoleEventLogger.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\EventLoggers\\ConsoleEventLogger.cs",
               "RelativeToolTip": "Services\\EventLoggers\\ConsoleEventLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -694,11 +669,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "IMatriculaService.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IMatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IMatriculaService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IMatriculaService.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IMatriculaService.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IMatriculaService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IMatriculaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -706,27 +681,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "IEstudianteService.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEstudianteService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEstudianteService.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEstudianteService.cs",
+              "ToolTip": "C:\\Users\\Memo\\Pictures\\Evaluacion1\\Evaluacion1\\Services\\Interfaces\\IEstudianteService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IEstudianteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T00:39:38.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Sexo.cs",
-              "DocumentMoniker": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Enum\\Sexo.cs",
-              "RelativeDocumentMoniker": "Models\\Enum\\Sexo.cs",
-              "ToolTip": "E:\\Nueva carpeta (4)\\Evaluacion1\\Evaluacion1\\Models\\Enum\\Sexo.cs",
-              "RelativeToolTip": "Models\\Enum\\Sexo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T00:21:46.026Z"
             }
           ]
         }

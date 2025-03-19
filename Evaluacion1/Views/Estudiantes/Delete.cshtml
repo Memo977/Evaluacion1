@@ -4,60 +4,151 @@
     bool canDelete = ViewBag.CanDelete ?? false;
 }
 
-<h1>Eliminar Estudiante</h1>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>Eliminar Estudiante</h1>
+    <div>
+        <a asp-action="Index" class="btn btn-outline-secondary">
+            <i class="fas fa-arrow-left mr-2"></i>Volver al Listado
+        </a>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-md-8 offset-md-2">
-        <div class="card">
-            <div class="card-header bg-danger text-white">
+        <div class="card border-danger">
+            <div class="card-header bg-danger text-white d-flex align-items-center">
+                <i class="fas fa-exclamation-triangle mr-2 fa-lg"></i>
                 <h5 class="mb-0">¿Está seguro que desea eliminar este estudiante?</h5>
             </div>
             <div class="card-body">
-                <dl>
-                    <dt>@Html.DisplayNameFor(model => model.Cedula)</dt>
-                    <dd>@Html.DisplayFor(model => model.Cedula)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Nombre)</dt>
-                    <dd>@Html.DisplayFor(model => model.Nombre)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Apellido1)</dt>
-                    <dd>@Html.DisplayFor(model => model.Apellido1)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Apellido2)</dt>
-                    <dd>@Html.DisplayFor(model => model.Apellido2)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Sexo)</dt>
-                    <dd>@Html.DisplayFor(model => model.Sexo)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Estado)</dt>
-                    <dd>
-                        <span class="badge @(Model.Estado == Evaluacion1.Models.Enum.EstadoEstudiante.Matriculado ? "badge-success" : "badge-secondary")">
-                            @Html.DisplayFor(model => model.Estado)
-                        </span>
-                    </dd>
-                </dl>
-
                 @if (!canDelete)
                 {
-                    <div class="alert alert-warning">
-                        <strong>Advertencia:</strong> No es posible eliminar este estudiante porque se encuentra matriculado.
+                    <div class="alert alert-warning d-flex align-items-center" role="alert">
+                        <i class="fas fa-exclamation-circle mr-2 fa-lg"></i>
+                        <div>
+                            <strong>Advertencia:</strong> No es posible eliminar este estudiante porque se encuentra matriculado.
+                            Debe eliminar primero la matrícula asociada.
+                        </div>
                     </div>
                 }
+
+                <div class="row mt-3">
+                    <div class="col-md-4 text-center mb-4">
+                        <!-- Profile placeholder image -->
+                        @if (Model.Sexo == Evaluacion1.Models.Enum.Sexo.Masculino)
+                        {
+                            <i class="fas fa-user-graduate text-secondary fa-5x mb-3"></i>
+                        }
+                        else
+                        {
+                            <i class="fas fa-user-graduate text-secondary fa-5x mb-3"></i>
+                        }
+
+                        <h4>@Model.Nombre @Model.Apellido1</h4>
+                        <div class="mt-2">
+                            @if (Model.Estado == Evaluacion1.Models.Enum.EstadoEstudiante.Matriculado)
+                            {
+                                <span class="badge badge-success px-3 py-2">
+                                    <i class="fas fa-check-circle mr-1"></i> @Html.DisplayFor(model => model.Estado)
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="badge badge-secondary px-3 py-2">
+                                    <i class="fas fa-times-circle mr-1"></i> @Html.DisplayFor(model => model.Estado)
+                                </span>
+                            }
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 35%">
+                                            <i class="fas fa-id-card mr-1"></i> @Html.DisplayNameFor(model => model.Cedula)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Cedula)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user mr-1"></i> @Html.DisplayNameFor(model => model.Nombre)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Nombre)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user-tag mr-1"></i> @Html.DisplayNameFor(model => model.Apellido1)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Apellido1)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user-tag mr-1"></i> @Html.DisplayNameFor(model => model.Apellido2)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Apellido2)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-venus-mars mr-1"></i> @Html.DisplayNameFor(model => model.Sexo)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Sexo)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="card-footer text-center">
                 @if (canDelete)
                 {
-                    <form asp-action="Delete">
+                    <form asp-action="Delete" id="deleteForm">
                         <input type="hidden" asp-for="Id" />
-                        <input type="submit" value="Eliminar" class="btn btn-danger" />
-                        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                        <button type="submit" class="btn btn-danger btn-lg px-5">
+                            <i class="fas fa-trash-alt mr-2"></i>Eliminar
+                        </button>
+                        <a asp-action="Index" class="btn btn-outline-secondary btn-lg px-5">
+                            <i class="fas fa-times mr-2"></i>Cancelar
+                        </a>
                     </form>
                 }
                 else
                 {
-                    <a asp-action="Index" class="btn btn-secondary">Volver al Listado</a>
+                    <a asp-action="Index" class="btn btn-secondary btn-lg px-5">
+                        <i class="fas fa-arrow-left mr-2"></i>Volver al Listado
+                    </a>
                 }
             </div>
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        // Confirm deletion with SweetAlert2
+        $(document).ready(function() {
+            $('#deleteForm').on('submit', function(e) {
+                e.preventDefault();
+
+                Swal.fire({
+                    title: '¿Está seguro?',
+                    text: "Esta acción no se puede revertir",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#dc3545',
+                    cancelButtonColor: '#6c757d',
+                    confirmButtonText: 'Sí, eliminar',
+                    cancelButtonText: 'Cancelar'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        this.submit();
+                    }
+                });
+            });
+
+            // Highlight active navigation
+            $('.nav-item a[href$="Estudiantes"]').addClass('active');
+        });
+    </script>
+}

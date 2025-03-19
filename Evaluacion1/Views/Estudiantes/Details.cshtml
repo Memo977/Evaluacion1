@@ -3,46 +3,122 @@
     ViewData["Title"] = "Detalles del Estudiante";
 }
 
-<h1>Detalles del Estudiante</h1>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>Detalles del Estudiante</h1>
+    <div>
+        <a asp-action="Index" class="btn btn-outline-secondary">
+            <i class="fas fa-arrow-left mr-2"></i>Volver al Listado
+        </a>
+    </div>
+</div>
 
 <div class="row">
-    <div class="col-md-8 offset-md-2">
+    <div class="col-lg-8 offset-lg-2">
         <div class="card">
-            <div class="card-header bg-info text-white">
+            <div class="card-header bg-info text-white d-flex align-items-center">
+                <i class="fas fa-user-circle mr-2 fa-lg"></i>
                 <h5 class="mb-0">Información del Estudiante</h5>
             </div>
             <div class="card-body">
-                <dl>
-                    <dt>@Html.DisplayNameFor(model => model.Id)</dt>
-                    <dd>@Html.DisplayFor(model => model.Id)</dd>
+                <div class="row">
+                    <div class="col-md-4 text-center mb-4">
+                        <!-- Profile placeholder image -->
+                        @if (Model.Sexo == Evaluacion1.Models.Enum.Sexo.Masculino)
+                        {
+                            <i class="fas fa-user-graduate text-info fa-5x mb-3"></i>
+                        }
+                        else
+                        {
+                            <i class="fas fa-user-graduate text-danger fa-5x mb-3"></i>
+                        }
 
-                    <dt>@Html.DisplayNameFor(model => model.Cedula)</dt>
-                    <dd>@Html.DisplayFor(model => model.Cedula)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Nombre)</dt>
-                    <dd>@Html.DisplayFor(model => model.Nombre)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Apellido1)</dt>
-                    <dd>@Html.DisplayFor(model => model.Apellido1)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Apellido2)</dt>
-                    <dd>@Html.DisplayFor(model => model.Apellido2)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Sexo)</dt>
-                    <dd>@Html.DisplayFor(model => model.Sexo)</dd>
-
-                    <dt>@Html.DisplayNameFor(model => model.Estado)</dt>
-                    <dd>
-                        <span class="badge @(Model.Estado == Evaluacion1.Models.Enum.EstadoEstudiante.Matriculado ? "bg-success" : "bg-secondary") text-dark">
-                            @Html.DisplayFor(model => model.Estado)
-                        </span>
-                    </dd>
-                </dl>
+                        <h4>@Model.Nombre @Model.Apellido1</h4>
+                        <div class="mt-2">
+                            @if (Model.Estado == Evaluacion1.Models.Enum.EstadoEstudiante.Matriculado)
+                            {
+                                <span class="badge badge-success px-3 py-2">
+                                    <i class="fas fa-check-circle mr-1"></i> @Html.DisplayFor(model => model.Estado)
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="badge badge-secondary px-3 py-2">
+                                    <i class="fas fa-times-circle mr-1"></i> @Html.DisplayFor(model => model.Estado)
+                                </span>
+                            }
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 35%">
+                                            <i class="fas fa-hashtag mr-1"></i> @Html.DisplayNameFor(model => model.Id)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Id)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-id-card mr-1"></i> @Html.DisplayNameFor(model => model.Cedula)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Cedula)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user mr-1"></i> @Html.DisplayNameFor(model => model.Nombre)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Nombre)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user-tag mr-1"></i> @Html.DisplayNameFor(model => model.Apellido1)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Apellido1)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-user-tag mr-1"></i> @Html.DisplayNameFor(model => model.Apellido2)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Apellido2)</td>
+                                    </tr>
+                                    <tr>
+                                        <th>
+                                            <i class="fas fa-venus-mars mr-1"></i> @Html.DisplayNameFor(model => model.Sexo)
+                                        </th>
+                                        <td>@Html.DisplayFor(model => model.Sexo)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="card-footer text-center">
-                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
-                <a asp-action="Index" class="btn btn-secondary">Volver al Listado</a>
+                <div class="btn-group" role="group">
+                    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">
+                        <i class="fas fa-edit mr-2"></i>Editar
+                    </a>
+                    @if (Model.Estado != Evaluacion1.Models.Enum.EstadoEstudiante.Matriculado)
+                    {
+                        <a asp-controller="Matriculas" asp-action="Create" asp-route-estudianteId="@Model.Id" class="btn btn-success">
+                            <i class="fas fa-graduation-cap mr-2"></i>Matricular
+                        </a>
+                    }
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="fas fa-list mr-2"></i>Volver al Listado
+                    </a>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        // Highlight active navigation
+        $(document).ready(function() {
+            $('.nav-item a[href$="Estudiantes"]').addClass('active');
+        });
+    </script>
+}
